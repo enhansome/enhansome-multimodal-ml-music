@@ -141,8 +141,8 @@ Please refer to the [contributing.md](contributing.md) file.
 You are free to copy, modify, and distribute ***Multimodal Machine Learning for Music (MML4Music)*** with attribution under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
 This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,980 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
-* [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 667 | 🐛 3 | 📅 2025-12-12
-* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 570 | 🐛 55 | 🌐 Python | 📅 2026-06-12
+* [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 666 | 🐛 3 | 📅 2025-12-12
+* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 570 | 🐛 56 | 🌐 Python | 📅 2026-06-12
 * [Pylint](https://www.pylint.org/)
 * [Numpy](http://www.numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
