@@ -1,52 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "Summary of papers on multimodal machine learning for music, including the review papers highlighted above.",
-      "items": [],
-      "title": "Journal and Conference Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio-Text"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio-Image"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio-Video"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio-User"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "Contributions are welcome! Please refer to the contributing.md file.",
-      "items": [],
-      "title": "How To Contribute"
-    },
-    {
-      "description": "You are free to copy, modify, and distribute Multimodal Machine Learning for Music (MML4Music) with attribution under the terms of the MIT license. See the LICENSE file for details. This project is heavily based on Deep Learning for Music by Yann Bayle and uses other projects. You may refer to them for appropriate license information:",
+      "description": "You are free to copy, modify, and distribute Multimodal Machine Learning for Music (MML4Music) with attribution under the terms of the MIT license. See the LICENSE file for details. This project is heavily based on Deep Learning for Music by Yann Bayle and uses other projects. You may refer to them for appropriate license information:\nIf you use the information contained in this repository, please let us know!",
       "items": [
         {
           "node_type": "item",
@@ -55,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58968465,
             "language": null,
             "last_commit": "2025-12-12T20:32:14Z",
             "owner": "ddbeck",
@@ -69,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7460583,
             "language": "Python",
             "last_commit": "2026-06-12T12:18:57Z",
             "owner": "sciunto-org",
@@ -81,8 +38,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:36:30.756Z",
+    "last_updated": "2026-08-19T12:41:42.617Z",
     "original_repository": "ilaria-manco/multimodal-ml-music",
+    "original_repository_id": 583369920,
     "original_repository_sha": "1909c34a9acd3532296a6090e1e4b0951b4167b4",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml-music",
     "enhanced_repository_description": null,
