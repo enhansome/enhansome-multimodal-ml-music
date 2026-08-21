@@ -41,7 +41,7 @@ Summary of papers on multimodal machine learning for music, including the review
 | 2022 | [Mulan: A joint embedding of music audio and natural language](https://arxiv.org/abs/2208.12415)                                                                                                |                                                                                                             |
 | 2022 | [RECAP: Retrieval Augmented Music Captioner](https://arxiv.org/abs/2212.10901v1)                                                                                                                |                                                                                                             |
 | 2022 | [Data-Efficient Playlist Captioning With Musical and Linguistic Knowledge](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.784)                                             | [GitHub](https://github.com/deezer/playntell) ⭐ 18 \| 🐛 0 \| 🌐 Python \| 📅 2022-12-21                    |
-| 2022 | [Clap: Learning audio concepts from natural language supervision](https://arxiv.org/abs/2206.04769)                                                                                             | [GitHub](https://github.com/microsoft/CLAP) ⭐ 675 \| 🐛 16 \| 🌐 Python \| 📅 2024-09-18                    |
+| 2022 | [Clap: Learning audio concepts from natural language supervision](https://arxiv.org/abs/2206.04769)                                                                                             | [GitHub](https://github.com/microsoft/CLAP) ⭐ 676 \| 🐛 16 \| 🌐 Python \| 📅 2024-09-18                    |
 | 2022 | [Toward Universal Text-to-Music Retrieval](https://arxiv.org/abs/2211.14558)                                                                                                                    | [GitHub](https://github.com/SeungHeonDoh/music-text-representation) ⚠️ Archived                             |
 | 2021 | [MusCaps: Generating Captions for Music Audio](https://arxiv.org/abs/2104.11984)                                                                                                                | [GitHub](https://github.com/ilaria-manco/muscaps) ⭐ 86 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2024-12-03      |
 | 2021 | [Music Playlist Title Generation: A Machine-Translation Approach](https://arxiv.org/abs/2110.07354)                                                                                             | [GitHub](https://github.com/SeungHeonDoh/ply_title_gen) ⭐ 6 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2021-12-25 |
@@ -129,7 +129,7 @@ Summary of papers on multimodal machine learning for music, including the review
   Tasks pie chart:
   ![Tasks pie chart](fig/pie_chart_task.png)
 * Only 16 articles (34%) provide their source code.
-  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,978 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
+  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,981 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
 
 ## How To Contribute
 
@@ -139,9 +139,9 @@ Please refer to the [contributing.md](contributing.md) file.
 ## License
 
 You are free to copy, modify, and distribute ***Multimodal Machine Learning for Music (MML4Music)*** with attribution under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
-This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,978 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
+This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,981 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
-* [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 666 | 🐛 3 | 📅 2025-12-12
+* [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 665 | 🐛 3 | 📅 2025-12-12
 * [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 570 | 🐛 57 | 🌐 Python | 📅 2026-06-12
 * [Pylint](https://www.pylint.org/)
 * [Numpy](http://www.numpy.org/)
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
