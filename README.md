@@ -121,6 +121,8 @@ Summary of papers on multimodal machine learning for music, including the review
 
 ## Statistics & Visualisations
 
+* Only 16 articles (34%) provide their source code.
+  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,981 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
 * 47 papers referenced. See the details in [multimodal\_ml\_music.bib](multimodal_ml_music.bib).
   Number of articles per year:
   ![Number of articles per year](fig/articles_per_year.png)
@@ -128,8 +130,6 @@ Summary of papers on multimodal machine learning for music, including the review
 * 13 tasks investigated. See the list of [tasks](tasks.md).
   Tasks pie chart:
   ![Tasks pie chart](fig/pie_chart_task.png)
-* Only 16 articles (34%) provide their source code.
-  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,981 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
 
 ## How To Contribute
 
