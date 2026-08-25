@@ -9,8 +9,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Contrastive audio-language learning for music GitHub",
+                  "title": "ilaria-manco/muscall",
+                  "description": "Contrastive audio-language learning for music",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -24,8 +24,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Learning music audio representations via weak language supervision GitHub",
+                  "title": "ilaria-manco/mulap",
+                  "description": "Learning music audio representations via weak language supervision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -39,8 +39,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Data-Efficient Playlist Captioning With Musical and Linguistic Knowledge GitHub",
+                  "title": "deezer/playntell",
+                  "description": "Data-Efficient Playlist Captioning With Musical and Linguistic Knowledge",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -54,8 +54,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Clap: Learning audio concepts from natural language supervision GitHub",
+                  "title": "microsoft/CLAP",
+                  "description": "Clap: Learning audio concepts from natural language supervision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -69,8 +69,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
-                  "description": "Toward Universal Text-to-Music Retrieval GitHub",
+                  "title": "seungheondoh/music-text-representation",
+                  "description": "Toward Universal Text-to-Music Retrieval",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -84,8 +84,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "MusCaps: Generating Captions for Music Audio GitHub",
+                  "title": "ilaria-manco/muscaps",
+                  "description": "MusCaps: Generating Captions for Music Audio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -99,8 +99,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Music Playlist Title Generation: A Machine-Translation Approach GitHub",
+                  "title": "seungheondoh/ply_title_gen",
+                  "description": "Music Playlist Title Generation: A Machine-Translation Approach",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -121,8 +121,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Tr$\\backslash$\" aumerai: Dreaming music with stylegan GitHub",
+                  "title": "jdasam/traeumerAI",
+                  "description": "Tr$\\backslash$\" aumerai: Dreaming music with stylegan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -136,8 +136,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "The Sound of Pixels GitHub",
+                  "title": "hangzhaomit/Sound-of-Pixels",
+                  "description": "The Sound of Pixels",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -158,8 +158,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Cbvmr: content-based video-music retrieval using soft intra-modal structure constraint GitHub",
+                  "title": "csehong/VM-NET",
+                  "description": "Cbvmr: content-based video-music retrieval using soft intra-modal structure constraint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -180,8 +180,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags GitHub",
+                  "title": "xavierfav/ae-w2v-attention",
+                  "description": "Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,8 +195,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017",
-                  "description": "A deep multimodal approach for cold-start music recommendation GitHub",
+                  "title": "sergiooramas/tartarus",
+                  "description": "A deep multimodal approach for cold-start music recommendation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -217,8 +217,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Multimodal metric learning for tag-based music retrieval GitHub",
+                  "title": "minzwon/tag-based-music-retrieval",
+                  "description": "Multimodal metric learning for tag-based music retrieval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -232,8 +232,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
-                  "description": "Enriched music representations with multiple cross-modal contrastive learning GitHub",
+                  "title": "andrebola/contrastive-mir-learning",
+                  "description": "Enriched music representations with multiple cross-modal contrastive learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -247,8 +247,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "Multimodal Deep Learning for Music Genre Classification GitHub",
+                  "title": "fvancesco/music_resnet_classification",
+                  "description": "Multimodal Deep Learning for Music Genre Classification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -262,8 +262,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "JTAV: Jointly Learning Social Media Content Representation by Fusing Textual, Acoustic, and Visual Features GitHub",
+                  "title": "mengshor/JTAV",
+                  "description": "JTAV: Jointly Learning Social Media Content Representation by Fusing Textual, Acoustic, and Visual Features",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:36:07.045Z",
+    "last_updated": "2026-08-25T06:20:07.584Z",
     "original_repository": "ilaria-manco/multimodal-ml-music",
     "original_repository_id": 583369920,
     "original_repository_sha": "1909c34a9acd3532296a6090e1e4b0951b4167b4",
