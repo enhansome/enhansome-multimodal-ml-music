@@ -345,7 +345,7 @@
             "last_commit": "2023-12-15T16:51:26Z",
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2983
+            "stars": 2984
           }
         }
       ],
@@ -389,9 +389,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:44:10.803Z",
-    "original_repository": "ilaria-manco/multimodal-ml-music",
-    "original_repository_id": 583369920,
+    "last_updated": "2026-08-27T11:54:15.410Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 583369920,
+      "language": "TeX",
+      "last_commit": "2023-03-25T12:51:48Z",
+      "owner": "ilaria-manco",
+      "repo": "multimodal-ml-music",
+      "stars": 300
+    },
     "original_repository_sha": "1909c34a9acd3532296a6090e1e4b0951b4167b4",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml-music",
     "enhanced_repository_description": null,
