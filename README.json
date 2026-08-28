@@ -20,7 +20,8 @@
                     "owner": "ilaria-manco",
                     "repo": "muscall",
                     "stars": 122
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "ilaria-manco",
                     "repo": "mulap",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "deezer",
                     "repo": "playntell",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "microsoft",
                     "repo": "CLAP",
                     "stars": 677
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "seungheondoh",
                     "repo": "music-text-representation",
                     "stars": 111
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "ilaria-manco",
                     "repo": "muscaps",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "seungheondoh",
                     "repo": "ply_title_gen",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 }
               ],
               "description": null,
@@ -132,7 +139,8 @@
                     "owner": "jdasam",
                     "repo": "traeumerAI",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "hangzhaomit",
                     "repo": "Sound-of-Pixels",
                     "stars": 393
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 }
               ],
               "description": null,
@@ -169,7 +178,8 @@
                     "owner": "csehong",
                     "repo": "VM-NET",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 }
               ],
               "description": null,
@@ -191,7 +201,8 @@
                     "owner": "xavierfav",
                     "repo": "ae-w2v-attention",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +217,8 @@
                     "owner": "sergiooramas",
                     "repo": "tartarus",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 }
               ],
               "description": null,
@@ -228,7 +240,8 @@
                     "owner": "minzwon",
                     "repo": "tag-based-music-retrieval",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "andrebola",
                     "repo": "contrastive-mir-learning",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +272,8 @@
                     "owner": "fvancesco",
                     "repo": "music_resnet_classification",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +288,8 @@
                     "owner": "mengshor",
                     "repo": "JTAV",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:05:41.181Z"
                 }
               ],
               "description": null,
@@ -304,7 +320,8 @@
             "owner": "ivyha010",
             "repo": "EmoMV",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:05:41.181Z"
         }
       ],
       "title": "Datasets"
@@ -325,7 +342,8 @@
             "owner": "ilaria-manco",
             "repo": "song-describer",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T13:05:41.181Z"
         }
       ],
       "title": "Other Projects"
@@ -346,7 +364,8 @@
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
             "stars": 2984
-          }
+          },
+          "first_seen": "2026-08-28T13:05:41.181Z"
         }
       ],
       "title": "Statistics & Visualisations"
@@ -367,7 +386,8 @@
             "owner": "ddbeck",
             "repo": "readme-checklist",
             "stars": 665
-          }
+          },
+          "first_seen": "2026-08-28T13:05:41.181Z"
         },
         {
           "node_type": "item",
@@ -382,14 +402,15 @@
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-28T13:05:41.181Z"
         }
       ],
       "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:15.410Z",
+    "last_updated": "2026-08-28T13:05:41.181Z",
     "original_repository_info": {
       "archived": false,
       "id": 583369920,
