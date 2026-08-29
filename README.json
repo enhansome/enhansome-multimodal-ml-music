@@ -14,12 +14,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"Contrastive Audio-Language Learning for Music\" (ISMIR 2022)",
+                    "homepage": "https://arxiv.org/abs/2208.12208",
                     "id": 525243437,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-05T11:30:14Z",
+                    "open_issues": 1,
                     "owner": "ilaria-manco",
                     "repo": "muscall",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": [
+                      "cross-modal-retrieval",
+                      "music-ai",
+                      "music-information-retrieval"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -30,12 +39,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"Learning Music Audio Representations Via Weak Language Supervision\" (ICASSP 2022)",
+                    "homepage": "https://arxiv.org/abs/2112.04214",
                     "id": 456653186,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-03T16:21:45Z",
+                    "open_issues": 1,
                     "owner": "ilaria-manco",
                     "repo": "mulap",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -46,12 +60,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to reproduce the experiments presented in the article \"Data-Efficient Playlist Captioning With Musical and Linguistic Knowledge\" (EMNLP 2022)",
+                    "homepage": null,
                     "id": 552822138,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-21T14:46:48Z",
+                    "open_issues": 0,
                     "owner": "deezer",
                     "repo": "playntell",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -62,12 +81,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning audio concepts from natural language supervision",
+                    "homepage": null,
                     "id": 560994406,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-18T21:40:17Z",
+                    "open_issues": 16,
                     "owner": "microsoft",
                     "repo": "CLAP",
-                    "stars": 677
+                    "stars": 677,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -78,12 +102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Toward Universal Text-to-Music-Retrieval (TTMR) [ICASSP23]",
+                    "homepage": "https://seungheondoh.github.io/text-music-representation-demo/",
                     "id": 566185580,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-12T04:19:10Z",
+                    "open_issues": 2,
                     "owner": "seungheondoh",
                     "repo": "music-text-representation",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -94,12 +123,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for \"MusCaps: Generating Captions for Music Audio\" (IJCNN 2021)",
+                    "homepage": "https://arxiv.org/abs/2104.11984",
                     "id": 359493924,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-03T16:12:02Z",
+                    "open_issues": 0,
                     "owner": "ilaria-manco",
                     "repo": "muscaps",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "audio-captioning",
+                      "mir",
+                      "multimodal-deep-learning",
+                      "music-information-retrieval"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -110,12 +149,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Music Playlist Title Generation [NLP4Musa 2021]",
+                    "homepage": null,
                     "id": 441747689,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-12-25T20:47:40Z",
+                    "open_issues": 0,
                     "owner": "seungheondoh",
                     "repo": "ply_title_gen",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 }
@@ -133,12 +177,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of TräumerAI, based on PyTorch implementation of StyleGAN 2",
+                    "homepage": "https://jdasam.github.io/traeumerAI_demo/",
                     "id": 298964462,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-08-01T12:49:51Z",
+                    "open_issues": 0,
                     "owner": "jdasam",
                     "repo": "traeumerAI",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -149,12 +198,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codebase for ECCV18 \"The Sound of Pixels\"",
+                    "homepage": "http://sound-of-pixels.csail.mit.edu",
                     "id": 158138352,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-25T06:26:41Z",
+                    "open_issues": 11,
                     "owner": "hangzhaomit",
                     "repo": "Sound-of-Pixels",
-                    "stars": 393
+                    "stars": 393,
+                    "topics": [
+                      "computer-vision",
+                      "cross-modality",
+                      "self-supervised-learning",
+                      "sound-separation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 }
@@ -172,12 +231,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Content-Based Video-Music Retrieval using Soft Intra-Modal Structure Constraint",
+                    "homepage": null,
                     "id": 102007542,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-09-22T05:37:43Z",
+                    "open_issues": 3,
                     "owner": "csehong",
                     "repo": "VM-NET",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 }
@@ -195,12 +259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 306266936,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-27T18:59:01Z",
+                    "open_issues": 0,
                     "owner": "xavierfav",
                     "repo": "ae-w2v-attention",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -211,12 +280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning for audio and text",
+                    "homepage": null,
                     "id": 82857759,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T02:03:19Z",
+                    "open_issues": 7,
                     "owner": "sergiooramas",
                     "repo": "tartarus",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 }
@@ -234,12 +308,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 266120537,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-11-02T01:44:00Z",
+                    "open_issues": 0,
                     "owner": "minzwon",
                     "repo": "tag-based-music-retrieval",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -250,12 +329,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo contains the code to reproduce the paper: \"Enriched Music Representations with Multiple Cross-modal Contrastive Learning\"",
+                    "homepage": null,
                     "id": 334129196,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-06-22T15:56:47Z",
+                    "open_issues": 4,
                     "owner": "andrebola",
                     "repo": "contrastive-mir-learning",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "contrastive-learning",
+                      "music-information-retrieval",
+                      "recommender-system"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -266,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for the visual experiments of our ISMIR 2017 paper (Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features)",
+                    "homepage": null,
                     "id": 117573172,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-01-15T17:29:55Z",
+                    "open_issues": 0,
                     "owner": "fvancesco",
                     "repo": "music_resnet_classification",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 },
@@ -282,12 +375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 120161286,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-05-01T12:21:45Z",
+                    "open_issues": 0,
                     "owner": "mengshor",
                     "repo": "JTAV",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
                 }
@@ -314,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets for affective music‑video retrieval",
+            "homepage": null,
             "id": 527246276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-21T15:53:20Z",
+            "open_issues": 0,
             "owner": "ivyha010",
             "repo": "EmoMV",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
         }
@@ -336,12 +439,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Song Describer is a data collection platform for annotating music with textual descriptions.",
+            "homepage": "https://song-describer.streamlit.app",
             "id": 568844483,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-03T16:11:28Z",
+            "open_issues": 2,
             "owner": "ilaria-manco",
             "repo": "song-describer",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "annotations",
+              "audio-captioning",
+              "data-collection",
+              "music-dataset"
+            ]
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
         }
@@ -358,12 +471,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of articles related to deep learning applied to music",
+            "homepage": null,
             "id": 100402731,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2023-12-15T16:51:26Z",
+            "open_issues": 7,
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2984
+            "stars": 2985,
+            "topics": [
+              "article",
+              "audio",
+              "audio-processing",
+              "awesome",
+              "awesome-list",
+              "bib",
+              "deep-learning",
+              "deep-neural-networks",
+              "deeplearning",
+              "list",
+              "lists",
+              "machine-learning",
+              "music",
+              "music-genre-classification",
+              "music-information-retrieval",
+              "neural-network",
+              "neural-networks",
+              "research",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
         }
@@ -380,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A checklist for writing READMEs",
+            "homepage": null,
             "id": 58968465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-12T20:32:14Z",
+            "open_issues": 3,
             "owner": "ddbeck",
             "repo": "readme-checklist",
-            "stars": 665
+            "stars": 665,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
         },
@@ -396,12 +540,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bibtex parser for Python 3",
+            "homepage": "https://bibtexparser.readthedocs.io",
             "id": 7460583,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T12:18:57Z",
+            "open_issues": 57,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "bibtex",
+              "bibtex-files",
+              "latex",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
         }
@@ -410,15 +564,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:05:41.181Z",
+    "last_updated": "2026-08-29T04:48:17.317Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of academic resources on Multimodal ML for Music",
+      "homepage": null,
       "id": 583369920,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2023-03-25T12:51:48Z",
+      "open_issues": 0,
       "owner": "ilaria-manco",
       "repo": "multimodal-ml-music",
-      "stars": 300
+      "stars": 300,
+      "topics": [
+        "academic-publications",
+        "awesome-list",
+        "multimodal-data",
+        "multimodal-deep-learning",
+        "multimodal-learning",
+        "music-ai",
+        "music-information-retrieval",
+        "music-research",
+        "resources"
+      ]
     },
     "original_repository_sha": "1909c34a9acd3532296a6090e1e4b0951b4167b4",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml-music",
