@@ -122,7 +122,7 @@ Summary of papers on multimodal machine learning for music, including the review
 ## Statistics & Visualisations
 
 * Only 16 articles (34%) provide their source code.
-  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
+  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
 * 47 papers referenced. See the details in [multimodal\_ml\_music.bib](multimodal_ml_music.bib).
   Number of articles per year:
   ![Number of articles per year](fig/articles_per_year.png)
@@ -139,7 +139,7 @@ Please refer to the [contributing.md](contributing.md) file.
 ## License
 
 You are free to copy, modify, and distribute ***Multimodal Machine Learning for Music (MML4Music)*** with attribution under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
-This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
+This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
 * [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 665 | 🐛 3 | 📅 2025-12-12
 * [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 570 | 🐛 57 | 🌐 Python | 📅 2026-06-12
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
