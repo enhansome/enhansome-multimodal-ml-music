@@ -545,8 +545,8 @@
             "id": 7460583,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T21:19:45Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-04T05:19:41Z",
+            "open_issues": 22,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
             "stars": 571,
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:03:50.552Z",
+    "last_updated": "2026-09-04T06:12:08.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
