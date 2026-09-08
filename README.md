@@ -59,7 +59,7 @@ Summary of papers on multimodal machine learning for music, including the review
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | 2020 | [Tr$\backslash$" aumerai: Dreaming music with stylegan](https://arxiv.org/abs/2102.04680)                                                                               | [GitHub](https://github.com/jdasam/traeumerAI) ⭐ 31 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2021-08-01   |
 | 2019 | [Learning Affective Correspondence between Music and Image](https://arxiv.org/pdf/1904.00150.pdf)                                                                       |                                                                                                       |
-| 2018 | [The Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf)                                                                                                             | [GitHub](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 393 \| 🐛 11 \| 🌐 Python \| 📅 2022-04-25 |
+| 2018 | [The Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf)                                                                                                             | [GitHub](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 394 \| 🐛 11 \| 🌐 Python \| 📅 2022-04-25 |
 | 2018 | [Image generation associated with music data](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w49/Qiu_Image_Generation_Associated_CVPR_2018_paper.pdf) |                                                                                                       |
 
 #### Audio-Video
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

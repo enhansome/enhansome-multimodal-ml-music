@@ -207,7 +207,7 @@
                     "open_issues": 11,
                     "owner": "hangzhaomit",
                     "repo": "Sound-of-Pixels",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": [
                       "computer-vision",
                       "cross-modality",
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:20:10.819Z",
+    "last_updated": "2026-09-08T06:10:10.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
