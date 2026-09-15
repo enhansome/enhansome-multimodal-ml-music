@@ -23,7 +23,7 @@
                     "open_issues": 1,
                     "owner": "ilaria-manco",
                     "repo": "muscall",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": [
                       "cross-modal-retrieval",
                       "music-ai",
@@ -477,10 +477,10 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2023-12-15T16:51:26Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2986,
+            "stars": 2987,
             "topics": [
               "article",
               "audio",
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:38:29.973Z",
+    "last_updated": "2026-09-15T06:21:35.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
@@ -576,7 +576,7 @@
       "open_issues": 0,
       "owner": "ilaria-manco",
       "repo": "multimodal-ml-music",
-      "stars": 300,
+      "stars": 301,
       "topics": [
         "academic-publications",
         "awesome-list",

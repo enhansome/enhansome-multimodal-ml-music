@@ -36,7 +36,7 @@ Summary of papers on multimodal machine learning for music, including the review
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 2022 | [Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model](https://arxiv.org/abs/2208.11671)                                                                                  |                                                                                                             |
 | 2022 | [Conversational Music Retrieval with Synthetic Data](https://research.google/pubs/pub51943/)                                                                                                    |                                                                                                             |
-| 2022 | [Contrastive audio-language learning for music](https://arxiv.org/abs/2208.12208)                                                                                                               | [GitHub](https://github.com/ilaria-manco/muscall) ⭐ 122 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-05               |
+| 2022 | [Contrastive audio-language learning for music](https://arxiv.org/abs/2208.12208)                                                                                                               | [GitHub](https://github.com/ilaria-manco/muscall) ⭐ 123 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-05               |
 | 2022 | [Learning music audio representations via weak language supervision](https://arxiv.org/abs/2112.04214)                                                                                          | [GitHub](https://github.com/ilaria-manco/mulap) ⭐ 47 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-03                  |
 | 2022 | [Mulan: A joint embedding of music audio and natural language](https://arxiv.org/abs/2208.12415)                                                                                                |                                                                                                             |
 | 2022 | [RECAP: Retrieval Augmented Music Captioner](https://arxiv.org/abs/2212.10901v1)                                                                                                                |                                                                                                             |
@@ -122,7 +122,7 @@ Summary of papers on multimodal machine learning for music, including the review
 ## Statistics & Visualisations
 
 * Only 16 articles (34%) provide their source code.
-  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15.
+  by [Yann Bayle](http://yannbayle.fr/english/index.php) has a very useful list of [resources on reproducibility for MIR and ML](https://github.com/ybayle/awesome-deep-learning-music/blob/master/reproducibility.md) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15.
 * 47 papers referenced. See the details in [multimodal\_ml\_music.bib](multimodal_ml_music.bib).
   Number of articles per year:
   ![Number of articles per year](fig/articles_per_year.png)
@@ -139,7 +139,7 @@ Please refer to the [contributing.md](contributing.md) file.
 ## License
 
 You are free to copy, modify, and distribute ***Multimodal Machine Learning for Music (MML4Music)*** with attribution under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
-This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
+This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
 * [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 666 | 🐛 3 | 📅 2025-12-12
 * [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 571 | 🐛 10 | 🌐 Python | 📅 2026-09-10
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
