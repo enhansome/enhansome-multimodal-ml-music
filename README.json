@@ -480,7 +480,7 @@
             "open_issues": 8,
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2988,
+            "stars": 2987,
             "topics": [
               "article",
               "audio",
@@ -528,7 +528,7 @@
             "open_issues": 3,
             "owner": "ddbeck",
             "repo": "readme-checklist",
-            "stars": 666,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:41.181Z"
@@ -546,7 +546,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-10T20:34:08Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
             "stars": 572,
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:47:26.365Z",
+    "last_updated": "2026-09-28T07:13:06.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
