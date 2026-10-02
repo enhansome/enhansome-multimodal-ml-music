@@ -76,7 +76,7 @@ Summary of papers on multimodal machine learning for music, including the review
 | Year | Paper Title                                                                                                            | Code                                                                                              |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2020 | [Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags](https://arxiv.org/pdf/2010.14171.pdf) | [GitHub](https://github.com/xavierfav/ae-w2v-attention) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2021-01-27 |
-| 2017 | [A deep multimodal approach for cold-start music recommendation](https://dl.acm.org/doi/pdf/10.1145/3125486.3125492)   | [GitHub](https://github.com/sergiooramas/tartarus) ⭐ 101 \| 🐛 7 \| 🌐 Python \| 📅 2022-12-08    |
+| 2017 | [A deep multimodal approach for cold-start music recommendation](https://dl.acm.org/doi/pdf/10.1145/3125486.3125492)   | [GitHub](https://github.com/sergiooramas/tartarus) ⭐ 102 \| 🐛 7 \| 🌐 Python \| 📅 2022-12-08    |
 
 #### Other
 
@@ -142,7 +142,7 @@ You are free to copy, modify, and distribute ***Multimodal Machine Learning for 
 This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
 * [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 667 | 🐛 3 | 📅 2025-12-12
-* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 572 | 🐛 12 | 🌐 Python | 📅 2026-09-30
+* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 572 | 🐛 13 | 🌐 Python | 📅 2026-09-30
 * [Pylint](https://www.pylint.org/)
 * [Numpy](http://www.numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

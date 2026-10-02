@@ -289,7 +289,7 @@
                     "open_issues": 7,
                     "owner": "sergiooramas",
                     "repo": "tartarus",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:05:41.181Z"
@@ -546,7 +546,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-30T05:59:09Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
             "stars": 572,
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T07:25:54.273Z",
+    "last_updated": "2026-10-02T07:12:51.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
