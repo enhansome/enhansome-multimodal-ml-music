@@ -142,7 +142,7 @@ You are free to copy, modify, and distribute ***Multimodal Machine Learning for 
 This project is heavily based on [Deep Learning for Music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15 by [Yann Bayle](http://yannbayle.fr/english/index.php) and uses other projects. You may refer to them for appropriate license information:
 
 * [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 667 | 🐛 3 | 📅 2025-12-12
-* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 572 | 🐛 11 | 🌐 Python | 📅 2026-10-02
+* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 572 | 🐛 12 | 🌐 Python | 📅 2026-10-03
 * [Pylint](https://www.pylint.org/)
 * [Numpy](http://www.numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
