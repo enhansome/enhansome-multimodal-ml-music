@@ -480,7 +480,7 @@
             "open_issues": 8,
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2998,
+            "stars": 2999,
             "topics": [
               "article",
               "audio",
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:47:06.366Z",
+    "last_updated": "2026-11-02T07:53:52.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of academic resources on Multimodal ML for Music",
