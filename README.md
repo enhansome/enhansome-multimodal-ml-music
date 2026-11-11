@@ -76,7 +76,7 @@ Summary of papers on multimodal machine learning for music, including the review
 | Year | Paper Title                                                                                                            | Code                                                                                              |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2020 | [Learning Contextual Tag Embeddings for Cross-Modal Alignment of Audio and Tags](https://arxiv.org/pdf/2010.14171.pdf) | [GitHub](https://github.com/xavierfav/ae-w2v-attention) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2021-01-27 |
-| 2017 | [A deep multimodal approach for cold-start music recommendation](https://dl.acm.org/doi/pdf/10.1145/3125486.3125492)   | [GitHub](https://github.com/sergiooramas/tartarus) ⭐ 102 \| 🐛 7 \| 🌐 Python \| 📅 2022-12-08    |
+| 2017 | [A deep multimodal approach for cold-start music recommendation](https://dl.acm.org/doi/pdf/10.1145/3125486.3125492)   | [GitHub](https://github.com/sergiooramas/tartarus) ⭐ 103 \| 🐛 7 \| 🌐 Python \| 📅 2022-12-08    |
 
 #### Other
 
@@ -151,4 +151,4 @@ If you use the information contained in this repository, please let us know!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
